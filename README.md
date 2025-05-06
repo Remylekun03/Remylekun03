@@ -1,4 +1,7 @@
 ## Hi there 👋
+i'm Ella from nigeria and i'm currently in Aptech school studying ADSE
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remylekun03t)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Remylekun03/Remylekun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
